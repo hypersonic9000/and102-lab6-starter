@@ -2,7 +2,7 @@
 
 Submitted by: **Jalen Olsen**
 
-**ArticleSearch Pt. 2** is an android app that allows the user to scroll through emails.
+**ArticleSearch Pt. 2** is an android app that allows the user to scroll books and articles.
 
 Time spent: **2** hours spent in total
 
